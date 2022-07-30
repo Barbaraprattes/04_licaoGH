@@ -267,5 +267,5 @@ titanic %>%
     y = ""
   )
 ```
-*Resp.*  Southampton teve o maior número de mortes, então teve mais mortos oriundos do Reino Unido.
+*Resp.*  Southampton teve o maior número de mortes, então teve mais mortos oriundos do Reino Unido. 
 
